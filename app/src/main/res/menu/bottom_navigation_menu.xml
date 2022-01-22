@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/breaking_News_Fragment"
+        android:title="Breaking News"
+        android:icon="@drawable/ic_baseline_news"
+
+        />
+
+    <item android:id="@+id/saved_News_Fragment"
+        android:title="Saved News"
+        android:icon="@drawable/ic_favorite"
+
+        />
+
+    <item android:id="@+id/search_News_Fragment"
+        android:title="Search News"
+        android:icon="@drawable/ic_search_24"
+
+        />
+
+
+    <item android:id="@+id/setting_Fragment"
+        android:title="Setting"
+        android:icon="@drawable/ic_settings"
+
+        />
+
+
+</menu>
